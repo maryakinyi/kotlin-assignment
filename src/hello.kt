@@ -1,7 +1,7 @@
 fun main() {
-    val name:String="Sarah Papai"
+    val name:String="Dorothy Akoth"
     var age=19
-    val phoneNumber="0702128264"
+    val phoneNumber="0716293710"
     val weight="65"+ "kgs"
     val nationality:String="kenyan"
     val kenyan=true
