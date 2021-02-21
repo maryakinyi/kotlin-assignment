@@ -1,6 +1,6 @@
 fun main() {
-    val name:String="Dorothy Akoth"
-    var age=19
+    val name:String="Dorothyakoth"
+    var age=20
     val phoneNumber="0716293710"
     val weight="65"+ "kgs"
     val nationality:String="kenyan"
